@@ -1,0 +1,16 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "Projeto simula uma conta de banco onde é possível criar uma conta, consultar saldo, depositar e sacar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pedro Rambaldi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.2.4"
+  }
+}
